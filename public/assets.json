@@ -1,31 +1,31 @@
 {
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/3pl-test/cleo/1778997119847-hero.png",
+    "alt": "Hero composite showing a dense command-center dashboard card floating over a warm gray environment; emphasizes operational clarity, GT America headlines, and the product's dense timeline UI using the ",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/3pl-test/cleo/1778997129092-feature_1.png",
+    "alt": "Overhead plan visual showing dense, legible dashboard panels and a shipment timeline grid; communicates scanning efficiency and information density while preserving palette and typographic hierarchy.",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/3pl-test/cleo/1778997117481-feature_2.png",
+    "alt": "Device-focused close-up of the guided integrations flow on phone and tablet; emphasizes human scale, legible step indicators, and the brand action color for CTAs and verification badges.",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/3pl-test/cleo/1778997094613-feature_3.png",
+    "alt": "Alert-center composition highlighting grouped severity clusters and a collapsible timeline column; compact status chips and left color bars make urgency legible at a glance while preserving the calm, ",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/3pl-test/cleo/1778997107115-social_proof.png",
+    "alt": "Testimonial background with an abstract warehouse schematic and a focused testimonial card in the foreground; supports social proof without using AI-generated photography and keeps the brand palette a",
     "width": 1200,
     "height": 800
   }
